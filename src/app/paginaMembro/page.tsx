@@ -20,7 +20,7 @@ export default function PaginaMembros() {
                             Nome: Victor Hugo Carvalho Pereira <br />RM: 558550 <br />Turma: 1tdspi
                         </h1>
                         <h2><br />LINK DO LINKEDIN <br /> <br /></h2>
-                        <a href="https://www.linkedin.com/in/pedro-yokoo-36291a319/" className="bg-blue-200 shadow-lg rounded-lg border-2 border-black px-2 py-1">LINKEDIN</a>
+                        <a href="https://www.linkedin.com/in/victor-hugo-carvalho-pereira-31174a306/" className="bg-blue-200 shadow-lg rounded-lg border-2 border-black px-2 py-1">LINKEDIN</a>
                         <h2><br />LINK DO GITHUB <br /><br /> </h2>
                         <a href="https://github.com/VictorHugo55" className="bg-slate-300 shadow-lg rounded-lg border-2 border-black px-2 py-1">GIT HUB</a>
                     </div>
