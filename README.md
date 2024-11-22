@@ -1,36 +1,27 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+## Para rodar o programa na própria máquina:
 
-## Getting Started
+No terminal
+````bash
+- npm install .
+````
 
-First, run the development server:
+-(depois)
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
+````bash
+- npm run dev
+````
+Para rodar localmente
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+Para rodar no vercel:
+- https://ecohome1-3ojl.vercel.app/
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+O que tem no projeto:
+- opção de login(caso não tenha um login temuma opção de criar um)
+- deletar, atualizar e mostrar os(ou o usuário) (para acessar tem que acessar o login)
+- a ideia do projeto(página principal)
+- os membros
+- Dashboard (Mostrando os gastos de energia do mês)
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
-
-## Learn More
-
-To learn more about Next.js, take a look at the following resources:
-
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
-
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
-
-## Deploy on Vercel
-
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+A ideia do projeto:
+- A ideia do projeto é incentivar práticas sustentáveis e a reciclagem através de desafios interativos que motivam os usuários. 
+- Como recompensa, os participantes ganham pontos que podem ser trocados por itens relacionados à energia sustentável, como lâmpadas LED, painéis solares e tomadas inteligentes. A plataforma também promove a conscientização sobre o impacto ambiental e fornece ferramentas para um estilo de vida mais ecológico.
