@@ -1,3 +1,5 @@
+import Link from "next/link";
+
 export default function Sobre() {
     return (
         <div className="min-h-screen flex flex-col items-center bg-emerald-100 pt-28 pb-5 px-4">
@@ -39,11 +41,11 @@ export default function Sobre() {
                 </p>
 
                 <div className="mt-8 text-center">
-                    <a
+                    <Link
                         href="/"
                         className="inline-block bg-emerald-500 text-white font-bold py-2 px-6 rounded-lg hover:bg-emerald-600 transition">
                         Voltar para a página inicial
-                    </a>
+                    </Link>
                 </div>
             </main>
         </div>
